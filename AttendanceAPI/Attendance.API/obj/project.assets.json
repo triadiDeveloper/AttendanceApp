@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\AttendanceAPI\\AttendanceAPI.csproj",
-      "projectName": "AttendanceAPI",
-      "projectPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\AttendanceAPI\\AttendanceAPI.csproj",
+      "projectUniqueName": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Attendance.API.csproj",
+      "projectName": "Attendance.API",
+      "projectPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Attendance.API.csproj",
       "packagesPath": "C:\\Users\\andriyansyah.triadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\AttendanceAPI\\obj\\",
+      "outputPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
