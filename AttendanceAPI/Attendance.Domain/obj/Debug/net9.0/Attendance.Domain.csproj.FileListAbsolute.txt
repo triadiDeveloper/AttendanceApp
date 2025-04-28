@@ -1,0 +1,13 @@
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\bin\Debug\net9.0\Attendance.Domain.deps.json
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\bin\Debug\net9.0\Attendance.Domain.dll
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\bin\Debug\net9.0\Attendance.Domain.pdb
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\obj\Debug\net9.0\Attendance.Domain.csproj.AssemblyReference.cache
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\obj\Debug\net9.0\Attendance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\obj\Debug\net9.0\Attendance.Domain.AssemblyInfoInputs.cache
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\obj\Debug\net9.0\Attendance.Domain.AssemblyInfo.cs
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\obj\Debug\net9.0\Attendance.Domain.csproj.CoreCompileInputs.cache
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\obj\Debug\net9.0\Attendance.Domain.sourcelink.json
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\obj\Debug\net9.0\Attendance.Domain.dll
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\obj\Debug\net9.0\refint\Attendance.Domain.dll
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\obj\Debug\net9.0\Attendance.Domain.pdb
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Domain\obj\Debug\net9.0\ref\Attendance.Domain.dll

@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.api\\controllers\\attendance\\absencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|solutionrelative:attendance.api\\controllers\\attendance\\absencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.api\\controllers\\genericodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|solutionrelative:attendance.api\\controllers\\genericodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.api\\helper\\odataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|solutionrelative:attendance.api\\helper\\odataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.api\\configuration\\appbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|solutionrelative:attendance.api\\configuration\\appbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|solutionrelative:attendance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75AE40-3B2D-4E78-92B9-6864A6EDE7C1}|Attendance.Infrastructure\\Attendance.Infrastructure.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.infrastructure\\data\\attendancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75AE40-3B2D-4E78-92B9-6864A6EDE7C1}|Attendance.Infrastructure\\Attendance.Infrastructure.csproj|solutionrelative:attendance.infrastructure\\data\\attendancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.api\\controllers\\humanresource\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|solutionrelative:attendance.api\\controllers\\humanresource\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.api\\controllers\\identity\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|solutionrelative:attendance.api\\controllers\\identity\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.api\\configuration\\addodataheaderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|solutionrelative:attendance.api\\configuration\\addodataheaderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75AE40-3B2D-4E78-92B9-6864A6EDE7C1}|Attendance.Infrastructure\\Attendance.Infrastructure.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.infrastructure\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75AE40-3B2D-4E78-92B9-6864A6EDE7C1}|Attendance.Infrastructure\\Attendance.Infrastructure.csproj|solutionrelative:attendance.infrastructure\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.api\\helper\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|solutionrelative:attendance.api\\helper\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75AE40-3B2D-4E78-92B9-6864A6EDE7C1}|Attendance.Infrastructure\\Attendance.Infrastructure.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.infrastructure\\services\\humanresource\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75AE40-3B2D-4E78-92B9-6864A6EDE7C1}|Attendance.Infrastructure\\Attendance.Infrastructure.csproj|solutionrelative:attendance.infrastructure\\services\\humanresource\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8BBFA7-9E4A-4E54-BCE8-577FFC54289A}|Attendance.Application\\Attendance.Application.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.application\\interfaces\\humanresource\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8BBFA7-9E4A-4E54-BCE8-577FFC54289A}|Attendance.Application\\Attendance.Application.csproj|solutionrelative:attendance.application\\interfaces\\humanresource\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|c:\\triadi\\sourcedevelopment\\github\\attendanceapp\\attendanceapi\\attendance.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2D4C845-31D0-4FF0-A6F8-F8418BE04DC4}|Attendance.API\\Attendance.API.csproj|solutionrelative:attendance.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Attendance.API\\appsettings.json",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\appsettings.json",
+              "RelativeToolTip": "Attendance.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T03:50:36.246Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceDBContext.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\Data\\AttendanceDBContext.cs",
+              "RelativeDocumentMoniker": "Attendance.Infrastructure\\Data\\AttendanceDBContext.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\Data\\AttendanceDBContext.cs",
+              "RelativeToolTip": "Attendance.Infrastructure\\Data\\AttendanceDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:24:33.8Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Program.cs",
+              "RelativeDocumentMoniker": "Attendance.API\\Program.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Program.cs",
+              "RelativeToolTip": "Attendance.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:53:11.425Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ODataConfig.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Helper\\ODataConfig.cs",
+              "RelativeDocumentMoniker": "Attendance.API\\Helper\\ODataConfig.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Helper\\ODataConfig.cs",
+              "RelativeToolTip": "Attendance.API\\Helper\\ODataConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:02:40.112Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Controllers\\Identity\\AuthController.cs",
+              "RelativeDocumentMoniker": "Attendance.API\\Controllers\\Identity\\AuthController.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Controllers\\Identity\\AuthController.cs",
+              "RelativeToolTip": "Attendance.API\\Controllers\\Identity\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:55:20.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddODataHeaderFilter.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Configuration\\AddODataHeaderFilter.cs",
+              "RelativeDocumentMoniker": "Attendance.API\\Configuration\\AddODataHeaderFilter.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Configuration\\AddODataHeaderFilter.cs",
+              "RelativeToolTip": "Attendance.API\\Configuration\\AddODataHeaderFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:53:03.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\Services\\GenericService.cs",
+              "RelativeDocumentMoniker": "Attendance.Infrastructure\\Services\\GenericService.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\Services\\GenericService.cs",
+              "RelativeToolTip": "Attendance.Infrastructure\\Services\\GenericService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:49:04.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Configuration\\AppBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Attendance.API\\Configuration\\AppBuilderExtensions.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Configuration\\AppBuilderExtensions.cs",
+              "RelativeToolTip": "Attendance.API\\Configuration\\AppBuilderExtensions.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:34:11.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbsencesController.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Controllers\\Attendance\\AbsencesController.cs",
+              "RelativeDocumentMoniker": "Attendance.API\\Controllers\\Attendance\\AbsencesController.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Controllers\\Attendance\\AbsencesController.cs",
+              "RelativeToolTip": "Attendance.API\\Controllers\\Attendance\\AbsencesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:33:04.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseHelper.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Helper\\ResponseHelper.cs",
+              "RelativeDocumentMoniker": "Attendance.API\\Helper\\ResponseHelper.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Helper\\ResponseHelper.cs",
+              "RelativeToolTip": "Attendance.API\\Helper\\ResponseHelper.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:32:42.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericODataController.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Controllers\\GenericODataController.cs",
+              "RelativeDocumentMoniker": "Attendance.API\\Controllers\\GenericODataController.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Controllers\\GenericODataController.cs",
+              "RelativeToolTip": "Attendance.API\\Controllers\\GenericODataController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:56:25.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\Services\\HumanResource\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Attendance.Infrastructure\\Services\\HumanResource\\EmployeeService.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\Services\\HumanResource\\EmployeeService.cs",
+              "RelativeToolTip": "Attendance.Infrastructure\\Services\\HumanResource\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:44:54.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Application\\Interfaces\\HumanResource\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Attendance.Application\\Interfaces\\HumanResource\\IEmployeeService.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Application\\Interfaces\\HumanResource\\IEmployeeService.cs",
+              "RelativeToolTip": "Attendance.Application\\Interfaces\\HumanResource\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:44:35.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Controllers\\HumanResource\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Attendance.API\\Controllers\\HumanResource\\EmployeesController.cs",
+              "ToolTip": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.API\\Controllers\\HumanResource\\EmployeesController.cs",
+              "RelativeToolTip": "Attendance.API\\Controllers\\HumanResource\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:44:21.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

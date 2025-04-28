@@ -32,6 +32,195 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Application\\Attendance.Application.csproj": {
+                "projectPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Application\\Attendance.Application.csproj"
+              },
+              "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Domain\\Attendance.Domain.csproj": {
+                "projectPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Domain\\Attendance.Domain.csproj"
+              },
+              "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\Attendance.Infrastructure.csproj": {
+                "projectPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\Attendance.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.AspNetCore.OData": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Application\\Attendance.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Application\\Attendance.Application.csproj",
+        "projectName": "Attendance.Application",
+        "projectPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Application\\Attendance.Application.csproj",
+        "packagesPath": "C:\\Users\\andriyansyah.triadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andriyansyah.triadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Domain\\Attendance.Domain.csproj": {
+                "projectPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Domain\\Attendance.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Domain\\Attendance.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Domain\\Attendance.Domain.csproj",
+        "projectName": "Attendance.Domain",
+        "projectPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Domain\\Attendance.Domain.csproj",
+        "packagesPath": "C:\\Users\\andriyansyah.triadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andriyansyah.triadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -51,9 +240,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[9.0.4, )"
             }
           },
           "imports": [
@@ -68,9 +257,113 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\Attendance.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\Attendance.Infrastructure.csproj",
+        "projectName": "Attendance.Infrastructure",
+        "projectPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\Attendance.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\andriyansyah.triadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andriyansyah.triadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Application\\Attendance.Application.csproj": {
+                "projectPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Application\\Attendance.Application.csproj"
+              },
+              "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Domain\\Attendance.Domain.csproj": {
+                "projectPath": "C:\\Triadi\\SourceDevelopment\\Github\\AttendanceApp\\AttendanceAPI\\Attendance.Domain\\Attendance.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.AspNetCore.OData": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

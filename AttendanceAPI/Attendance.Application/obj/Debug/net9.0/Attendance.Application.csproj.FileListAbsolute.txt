@@ -1,0 +1,16 @@
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\bin\Debug\net9.0\Attendance.Application.deps.json
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\bin\Debug\net9.0\Attendance.Application.dll
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\bin\Debug\net9.0\Attendance.Application.pdb
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\bin\Debug\net9.0\Attendance.Domain.dll
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\bin\Debug\net9.0\Attendance.Domain.pdb
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\obj\Debug\net9.0\Attendance.Application.csproj.AssemblyReference.cache
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\obj\Debug\net9.0\Attendance.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\obj\Debug\net9.0\Attendance.Application.AssemblyInfoInputs.cache
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\obj\Debug\net9.0\Attendance.Application.AssemblyInfo.cs
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\obj\Debug\net9.0\Attendance.Application.csproj.CoreCompileInputs.cache
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\obj\Debug\net9.0\Attendance.Application.sourcelink.json
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\obj\Debug\net9.0\Attendan.874B8253.Up2Date
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\obj\Debug\net9.0\Attendance.Application.dll
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\obj\Debug\net9.0\refint\Attendance.Application.dll
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\obj\Debug\net9.0\Attendance.Application.pdb
+C:\Triadi\SourceDevelopment\Github\AttendanceApp\AttendanceAPI\Attendance.Application\obj\Debug\net9.0\ref\Attendance.Application.dll
